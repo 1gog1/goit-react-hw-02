@@ -40,3 +40,20 @@
 .read-the-docs {
   color: #888;
 }
+
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 20px;
+}
+.subtitle {
+  font-size: 20px;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
